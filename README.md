@@ -35,9 +35,8 @@ API-CEP/
 
 
 
-🧪 Testes com Postman
+🧪 Testes com Postman:
 
-Você pode importar as seguintes rotas no Postman para facilitar os testes:
 
 Login: POST http://localhost:3000/login
 
