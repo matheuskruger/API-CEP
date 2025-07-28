@@ -37,6 +37,8 @@ API-CEP/
 
 🧪 Testes com Postman:
 
+As seguintes rotas estão disponíveis para teste da API:
+
 
 Login: POST http://localhost:3000/login
 
